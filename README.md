@@ -20,6 +20,10 @@ body header:
     "email": "john.doe@example.com",
     "password": "password123"
 }
+![Alt text](image-2.png)
+
+Tocken :
+![Alt text](image-3.png)
 
 ## CRUD
 Post Book
@@ -58,5 +62,6 @@ http://localhost:8000/api/checkouts/1 (PUT)
 {
     "return_date": "2023-07-26"
 }
+![Alt text](image-1.png)
 
 ## Test case inside Test folder
