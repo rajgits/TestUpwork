@@ -1,13 +1,13 @@
 # TEST TASK By BHARATHRAJ (UPWORK FREELANCER)
 
-# STEPS TO INSTALL
-# step 1:  Change db name in .env
-# step 2: run composer update/ install
-# step 3: run php artisan migrate
-# step 4: run php artisan serve
+## STEPS TO INSTALL
+## step 1:  Change db name in .env
+## step 2: run composer update/ install
+## step 3: run php artisan migrate
+## step 4: run php artisan serve
 
 ## API ENDPOINTS
-# Register:  http://127.0.0.1:8000/api/register (post)
+## Register:  http://127.0.0.1:8000/api/register (post)
 body header:
 {
     "name": "John Doe",
@@ -15,13 +15,13 @@ body header:
     "password": "password123",
     "password_confirmation": "password123"
 }
-# Login:     http://127.0.0.1:8000/api/login
+## Login:     http://127.0.0.1:8000/api/login
 {
     "email": "john.doe@example.com",
     "password": "password123"
 }
 
-# CRUD
+## CRUD
 Post Book
 http://localhost:8000/api/books (POST)
 {
