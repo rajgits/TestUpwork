@@ -52,8 +52,9 @@ http://localhost:8000/api/books (POST)
     "user_id": 1,
     "book_id": 1
 }
+![Alt text](image.png)
 
-http://localhost:8000/api/checkouts/1
+http://localhost:8000/api/checkouts/1 (PUT)
 {
     "return_date": "2023-07-26"
 }
